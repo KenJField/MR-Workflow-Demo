@@ -1,0 +1,15 @@
+{
+  "c9d8df09-c8d8-44e6-90ec-24a65358f4d1": {
+    "id": "c9d8df09-c8d8-44e6-90ec-24a65358f4d1",
+    "username": "ken",
+    "email": "kenjfield@gmail.com",
+    "password_hash": "$2b$12$gM8tJNYC7FKSNFAUKTDqd.gfRyjKkEbocHg3aCJN5S5lznsqsZtZu",
+    "role": "user",
+    "created_at": "2024-12-19T23:18:38.001207",
+    "last_login": "2024-12-19T23:29:33.896468",
+    "project_ids": [
+      "2e546b3f-b954-4fce-99b0-e12c9cce2088",
+      "604b2b97-c337-407d-9faf-7a58fc52ffd1"
+    ]
+  }
+}

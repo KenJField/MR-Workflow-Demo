@@ -1,1 +1,27 @@
-streamlit
+# Core dependencies
+streamlit>=1.32.0
+pandas>=2.2.0
+nest-asyncio>=1.6.0
+
+# OpenAI and Authentication
+openai>=1.12.0
+bcrypt>=4.1.0
+
+# File handling and environment
+python-docx==0.8.11
+python-venv>=0.0.1
+
+# AutoGen dependencies
+autogen-agentchat>=0.0.1
+autogen-core>=0.0.1
+autogen-ext>=0.0.1
+
+# Logging and utilities
+python-json-logger>=2.0.7
+uuid>=1.30
+
+# Development dependencies
+pytest>=8.0.0
+black>=24.2.0
+flake8>=7.0.0
+mypy>=1.8.0
