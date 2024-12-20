@@ -11,9 +11,9 @@ bcrypt>=4.1.0
 python-docx==0.8.11
 
 # AutoGen dependencies
-autogen-agentchat>=0.0.1
-autogen-core>=0.0.1
-autogen-ext>=0.0.1
+autogen-agentchat==0.4.0.dev11
+autogen-core==0.4.0.dev11
+autogen-ext==0.4.0.dev11
 
 # Logging and utilities
 python-json-logger>=2.0.7
